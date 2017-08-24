@@ -3,8 +3,8 @@
 
 ## 技术栈
 [precss](https://github.com/jonathantneal/precss) 封装成sass语法的postcss集合插件
-[eslint规则]()
-[stylelint规则]()
+[eslint规则](https://github.com/flyctrl/react-sys-cms/blob/master/.eslintrc.js)
+[stylelint规则](https://github.com/flyctrl/react-sys-cms/blob/master/.stylelintrc)
 
 ## 路由
 
