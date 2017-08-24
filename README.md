@@ -25,10 +25,14 @@
     - 具体的例子可以参考："src/models/Videos/crawlers/common/Detail/Detail.js"中的componentDidMount。
 
 ## 添加栏目
-- 1、在src/models目录下，添加对应的模块组件并新增index.js
-- 2、在src/contants目录下的url.js里面，配置路由的地址并导出
-- 3、在src/Router目录下，配置路由面包屑
-- 4、在src/components目录下，添加导航菜单
+1.在src/models目录下，添加对应的模块组件并新增index.js
+
+2.在src/contants目录下的url.js里面，配置路由的地址并导出
+
+3.在src/Router目录下，配置路由面包屑
+
+4.在src/components目录下，添加导航菜单
+
 
 ## 引用常用资源
 
